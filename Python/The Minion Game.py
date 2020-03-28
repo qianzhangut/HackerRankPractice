@@ -13,3 +13,8 @@ def minion_game(string):
         return print('Stuart'+' '+'{}'.format(ct2))
     else:
         return print('Draw')
+
+
+if __name__ == '__main__':
+    s = input()
+    minion_game(s)
