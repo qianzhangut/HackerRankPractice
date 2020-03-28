@@ -12,6 +12,8 @@ If you have better code (I like readable code rather than short liner), send pul
 
 ## Algorithms
 
+- Simple Array Sum | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Simple%20Array%20Sum.py) | Socre: 10
+
 ## Python
 
 
