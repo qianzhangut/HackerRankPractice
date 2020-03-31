@@ -44,7 +44,7 @@ If you have better code (I like readable code rather than short liner), send pul
 |11|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Migratory%20Birds.py) | 10|
 |12|[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Non-Divisible%20Subset.py) | 20|
 |13|[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Sherlock%20and%20Squares.py) | 20|
-|14|[Climbing the Leaderboard  ](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Implementation/Climbing%20the%20Leaderboard.py) | 20|
+|14|[Climbing the Leaderboard  ](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Climbing%20the%20Leaderboard.py) | 20|
 
 
 ## Python
