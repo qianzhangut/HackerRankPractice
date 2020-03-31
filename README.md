@@ -58,7 +58,7 @@ If you have better code (I like readable code rather than short liner), send pul
 ## SQL
 | ID  	| Challenge   | Solution | Score |
 | :------| -------------------------------------------------------------------------------------- | ----------------------|:-------------:|
-|1|[Revising the Select Query 1](https://www.hackerrank.com/challenges/revising-the-select-query-1/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/SQL/Revising%20the%20Select%20Query%201.py) | 10|
-|2|[Revising the Select Query 2](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/SQL/Revising%20the%20Select%20Query%202.py) | 10|
-|3|[Select All](https://www.hackerrank.com/challenges/select-all/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/SQL/Select%20All.py) | 10|
-|4|[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/SQL/Select%20By%20ID.py) | 10|
+|1|[Revising the Select Query 1](https://www.hackerrank.com/challenges/revising-the-select-query-1/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/SQL/Revising%20the%20Select%20Query%201.sql) | 10|
+|2|[Revising the Select Query 2](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/SQL/Revising%20the%20Select%20Query%202.sql) | 10|
+|3|[Select All](https://www.hackerrank.com/challenges/select-all/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/SQL/Select%20All.sql) | 10|
+|4|[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/SQL/Select%20By%20ID.sql) | 10|
