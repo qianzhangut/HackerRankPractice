@@ -1,6 +1,6 @@
 
 
-# Solutions to Hackerrank practice problems
+# Solutions to Hackerrank Challenges
 
 <p align="center"><a href="https://www.hackerrank.com"><img src="https://github.com/qianzhangut/HackerRankPractice/blob/master/hack.png" ></a></p>
 
