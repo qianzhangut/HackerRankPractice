@@ -49,6 +49,14 @@ If you have better code (I like readable code rather than short liner), send pul
 |14|[Climbing the Leaderboard  ](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Climbing%20the%20Leaderboard.py) | 20|
 |15|[Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Bon%20Appetit.py) | 20|
 |16|[Encryption](https://www.hackerrank.com/challenges/encryption/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Encryption.py) | 30|
+|17|[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Designer%20PDF%20Viewer.py) | 20|
+|18|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Picking%20Numbers.py) | 20|
+|19|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Day%20of%20the%20Programmer.py) | 15|
+
+### Strings
+| ID  	| Challenge   | Solution | Score |
+| :------| -------------------------------------------------------------------------------------- | ----------------------|:-------------:|
+|1|[Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Strings/Funny%20String.py) | 25|
 
 ## Python
 ### Introduction
