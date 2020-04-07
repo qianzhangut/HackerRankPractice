@@ -29,8 +29,10 @@ If you have better code (I like readable code rather than short liner), send pul
 |8|[Mini-Max Sum ](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Warmup/Mini-Max%20Sum.py) |10 | 
 |9|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Warmup/Birthday%20Cake%20Candles.py) |10 | 
 |10|[Time Conversion ](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Warmup/Time%20Conversion.py) | 15| 
-
 ### Implementation
+<table>
+<tr><td>
+
 | ID  	| Challenge   | Solution | Score |
 | :------| -------------------------------------------------------------------------------------- | ----------------------|:-------------:|
 |1|[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Append%20and%20Delete.py) | 20|
@@ -43,6 +45,11 @@ If you have better code (I like readable code rather than short liner), send pul
 |8|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Extra%20Long%20Factorials.py) | 20|
 |9|[Grading Students](https://www.hackerrank.com/challenges/grading-students/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Grading%20Students.py) | 10|
 |10|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Kangaroo.py) | 10|
+
+</td><td>
+
+| ID  	| Challenge   | Solution | Score |
+| :------| -------------------------------------------------------------------------------------- | ----------------------|:-------------:|
 |11|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Migratory%20Birds.py) | 10|
 |12|[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Non-Divisible%20Subset.py) | 20|
 |13|[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Sherlock%20and%20Squares.py) | 20|
@@ -52,6 +59,12 @@ If you have better code (I like readable code rather than short liner), send pul
 |17|[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Designer%20PDF%20Viewer.py) | 20|
 |18|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Picking%20Numbers.py) | 20|
 |19|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Day%20of%20the%20Programmer.py) | 15|
+|20|20|20|20|
+</td></tr> </table>
+
+
+
+
 
 ### Strings
 | ID  	| Challenge   | Solution | Score |
