@@ -59,7 +59,7 @@ If you have better code (I like readable code rather than short liner), send pul
 |17|[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Designer%20PDF%20Viewer.py) | 20|
 |18|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Picking%20Numbers.py) | 20|
 |19|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Implementation/Day%20of%20the%20Programmer.py) | 15|
-|20|20|20|20|
+
 </td></tr> </table>
 
 
