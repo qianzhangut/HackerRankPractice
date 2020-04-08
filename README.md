@@ -74,13 +74,16 @@ If you have better code (I like readable code rather than short liner), send pul
 | ID  	| Challenge   | Solution | Score |
 | :------| -------------------------------------------------------------------------------------- | ----------------------|:-------------:|
 |1|[Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Strings/Funny%20String.py) | 25|
+|2|[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Strings/Pangrams.py) | 20|
+
+
 
 </td><td>
 
 | ID  	| Challenge   | Solution | Score |
 | :------| -------------------------------------------------------------------------------------- | ----------------------|:-------------:|
-|1|[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Strings/CamelCase.py) | 15|
-
+|11|[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Strings/CamelCase.py) | 15|
+|12|[HackerRank in a String](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Strings/HackerRank%20in%20a%20String.py) | 20|
 </td></tr> </table>
 
 
