@@ -70,14 +70,17 @@ If you have better code (I like readable code rather than short liner), send pul
 
 <table>
 <tr><td>
+
 | ID  	| Challenge   | Solution | Score |
 | :------| -------------------------------------------------------------------------------------- | ----------------------|:-------------:|
 |1|[Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Strings/Funny%20String.py) | 25|
 
 </td><td>
+
 | ID  	| Challenge   | Solution | Score |
 | :------| -------------------------------------------------------------------------------------- | ----------------------|:-------------:|
 |1|[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Strings/CamelCase.py) | 15|
+
 </td></tr> </table>
 
 
