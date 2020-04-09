@@ -95,7 +95,8 @@ If you have better code (I like readable code rather than short liner), send pul
 |1|[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Python/Write%20a%20function.py) | 10|
 |2|[Print Function](https://www.hackerrank.com/challenges/print-function/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Python/Print%20Function.py) | 20|
 |3|[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Python/The%20Minion%20Game.py) | 40|
-
+|4|[Athlete Sort](https://www.hackerrank.com/challenges/athlete-sort/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Python/Athlete%20Sort.py) | 30|
+|5|[Merge the Tool](https://www.hackerrank.com/challenges/merge-the-tool/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Python/Merge%20the%20Tool.py) | 40|
 
 ## SQL
 | ID  	| Challenge   | Solution | Score |
