@@ -86,6 +86,20 @@ If you have better code (I like readable code rather than short liner), send pul
 |12|[HackerRank in a String](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Strings/HackerRank%20in%20a%20String.py) | 20|
 </td></tr> </table>
 
+### Search
+
+<table>
+<tr><td>
+
+| ID  	| Challenge   | Solution | Score |
+| :------| -------------------------------------------------------------------------------------- | ----------------------|:-------------:|
+|1|[Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Algorithms/Strings/Funny%20String.py) | 25|
+
+
+</td><td>
+
+| ID  	| Challenge   | Solution | Score |
+| :------| -------------------------------------------------------------------------------------- | ----------------------|:-------------:|
 
 
 ## Python
