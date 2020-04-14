@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://www.hackerrank.com"><img src="https://github.com/qianzhangut/HackerRankPractice/blob/master/hack.png" ></a></p>
 
-# Solutions to Hackerrank Challengess
+# Solutions to Hackerrank Challenges
 
 This repository contains my solutions to Hackerrank practice problems.
 
