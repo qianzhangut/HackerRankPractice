@@ -100,10 +100,10 @@ If you have better code (I like readable code rather than short liner), send pul
 ### Dynamic Programing
 | ID  	| Challenge   | Solution | Score |
 | :------| -------------------------------------------------------------------------------------- | ----------------------|:-------------:|
-|1|[Construct the Array](https://www.hackerrank.com/challenges/construct-the-array/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Dynamic%Programming/Construct%20the%20Array.py) | 35|
-|2|[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Dynamic%Programming/Fibonacci%20Modified.py) | 45|
-|3|[Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Dynamic%Programming/Sam%20and%20substrings.py) | 40|
-|4|[The Coin Change Problem](https://www.hackerrank.com/challenges/the-coin-change-problem/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Dynamic%Programming/The%20Coin%20Change%20Problem.py) | 60|
+|1|[Construct the Array](https://www.hackerrank.com/challenges/construct-the-array/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Dynamic%20Programming/Construct%20the%20Array.py) | 35|
+|2|[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Dynamic%20Programming/Fibonacci%20Modified.py) | 45|
+|3|[Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Dynamic%20Programming/Sam%20and%20substrings.py) | 40|
+|4|[The Coin Change Problem](https://www.hackerrank.com/challenges/the-coin-change-problem/problem) | [Solution](https://github.com/qianzhangut/HackerRankPractice/blob/master/Dynamic%20Programming/The%20Coin%20Change%20Problem.py) | 60|
 
 
 ## Python
